@@ -6,5 +6,6 @@
   </head>
   <body>
     Hello world!
+    <img scr="/impossibly-cute-puppy-8.jpg" alt="dog">
   </body>
 </html>
